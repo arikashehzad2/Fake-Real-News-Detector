@@ -3,7 +3,7 @@
 An end-to-end Machine Learning project that classifies news articles as **Real** or **Fake** based on their linguistic patterns and sentiment analysis.
 
 ## 🚀 Deployment Link
-**[INSERT YOUR STREAMLIT URL HERE]**
+**(https://fake-real-news-detector-bv9mfciyyxvmhrffcx5voz.streamlit.app/)**
 
 ## 📂 Project Structure
 * `fake_real_news_predictor.ipynb`: Jupyter Notebook containing Data Cleaning, Feature Engineering, and Model Training.
@@ -23,4 +23,5 @@ The model analyzes 5 key features from the text:
 ## 💻 How to Run Locally
 1. Install dependencies:
    ```bash
+
    pip install -r requirements.txt
